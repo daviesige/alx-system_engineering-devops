@@ -1,1 +1,1 @@
-10mirror permissions
+11directories permissions
